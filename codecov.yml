@@ -1,0 +1,11 @@
+coverage:
+  status:
+    project:
+      default:
+        threshold: 90%
+    patch:
+      default:
+        threshold: 90%
+ignore:
+  - "lua/exclude_file.lua"
+  - "lua/exclude_dir/*.lua"
