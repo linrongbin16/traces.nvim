@@ -1,6 +1,6 @@
 modules = {
-    ["ci-template"] = "lua/ci-template.lua",
-    ["ci-template.*"] = "lua",
+    ["traces"] = "lua/traces.lua",
+    ["traces.*"] = "lua",
 }
 
 exclude = {
